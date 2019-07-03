@@ -1,3 +1,4 @@
+include_recipe 'imagemagick'
 # uncomment to use a custom database.yml configuration
 # include_recipe "database_yml_custom"
 
